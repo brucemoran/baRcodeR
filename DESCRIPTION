@@ -37,7 +37,7 @@ URL: https://docs.ropensci.org/baRcodeR/ (website) https://github.com/ropensci/b
 BugReports: https://github.com/ropensci/baRcodeR/issues
 Depends:
     qrcode,
-    R (>= 4.0.0)
+    R (>= 3.6.0)
 Imports:
     DT (>= 0.3),
     grDevices,
